@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "asdasd@asdasd.sad",
+      "password": "$2a$10$lUvWXj.LykvE.yZMGdA5b.kDJOl4oOhlDfw04muohAxtAh.doBR9u",
+      "username": "asdasd",
+      "id": 1
+    },
+    {
+      "email": "asddddd@sss.sad",
+      "password": "$2a$10$lS6N7qoN072a2uThDbfTseH8ZinFWbhXci3eCQsMH75N0pvSUsIze",
+      "username": "sdadasd",
+      "id": 2
+    },
+    {
+      "email": "asdasdasd5@asdasd.sd",
+      "password": "$2a$10$LeQqDadww/olsqz9LdE5DOxpQdosSnxcLM/A0X0A4gEF0LEkHj7xq",
+      "username": "dsd",
+      "id": 3
+    },
+    {
+      "email": "asdsad@email.com",
+      "password": "$2a$10$rAYriq9qCspB/10lHlE.q.z8BafxwGuU1Yxzm6L3AFERSidUQ8oFC",
+      "username": "eugene",
+      "id": 4
+    },
+    {
+      "email": "asdasdasdasdasd@sadasdasd.asdsad",
+      "password": "$2a$10$PLuvi8oFijqDbGdIeWCnWeLRt3kWKOS4qN8MrfpX1DW.yEnaed8nO",
+      "username": "sadasd",
+      "id": 6
+    },
+    {
+      "email": "asdssss@sadsass.sda",
+      "password": "$2a$10$vdr27UWQ24kEC42V/h.IaOQY3nWWyt8ZIb1bMMauqXgaxRPxOzzL.",
+      "username": "asdasdasdasd",
+      "id": 7
+    },
+    {
+      "email": "ssssadadad@asdsdasdasd.asd",
+      "password": "$2a$10$rz9Fz0qwIYw6WS4dEDRyQ.VPhDL4pPik.ZAT27vEcTb6aVGjGxqVi",
+      "username": "asdasdsssss",
+      "id": 8
+    },
+    {
+      "email": "dsa@dsa.dsa",
+      "password": "$2a$10$g8n.U.4BlxkznCjWzbWZ5uvb5o7G8ozjPYV8E353GukIVtSLfLo2.",
+      "username": "dsa",
+      "id": 9
+    },
+    {
+      "email": "asd@asd.asd",
+      "password": "$2a$10$qgX1PdeKEwIVCO/EKr4SRuXCIp.TrnkpzgF4xgNpsJJPA3rtapld2",
+      "username": "asd",
+      "id": 10
+    }
+  ]
+}
